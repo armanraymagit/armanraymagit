@@ -3,8 +3,8 @@
 
 🎓 Aspiring Software Developer | CS Student
 💻 Building strong fundamentals in Data Structures (C)
-🤖 Exploring AI/ML & 🔐 **Cybersecurity
-🌱 Passionate about **Open Source & Continuous Learning**
+🤖 Exploring AI/ML & 🔐 Cybersecurity
+🌱 Passionate about Open Source & Continuous Learning
 
 
 
