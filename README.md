@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**armanraymagit/armanraymagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I’m Arman 
 
-Here are some ideas to get you started:
+🎓 Aspiring Software Developer | CS Student
+💻 Building strong fundamentals in Data Structures (C)
+🤖 Exploring AI/ML & 🔐 **Cybersecurity
+🌱 Passionate about **Open Source & Continuous Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠️ Tech Stack
+
+Languages:C, Python, JavaScript
+Frontend: React, Tailwind CSS
+Backend: Node.js, Express
+Database: PostgreSQL
+Core CS: Data Structures & Algorithms, OS, DBMS
+
+
+
+## 🎯 Goals
+
+Contribute to open-source communities
+
