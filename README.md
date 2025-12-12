@@ -10,11 +10,11 @@
 
 ## 🛠️ Tech Stack
 
-Languages: C, Python, JavaScript
-Frontend: React, Tailwind CSS
-Backend: Node.js, Express
-Database: PostgreSQL
-Core CS: Data Structures & Algorithms, OS, DBMS
+Languages: C, Python, JavaScript | 
+Frontend: React, Tailwind CSS | 
+Backend: Node.js, Express | 
+Database: PostgreSQL | 
+Core CS: Data Structures & Algorithms, OS, DBMS | 
 
 
 
