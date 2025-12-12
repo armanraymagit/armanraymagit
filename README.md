@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-Languages:C, Python, JavaScript
+Languages: C, Python, JavaScript
 Frontend: React, Tailwind CSS
 Backend: Node.js, Express
 Database: PostgreSQL
