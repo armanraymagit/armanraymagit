@@ -10,15 +10,15 @@
 
 ## 🛠️ Tech Stack
 
-Languages: C, Python, JavaScript, TypeScript | 
+Languages: C, Python, JavaScript, TypeScript 
 
-Frontend: React, Tailwind CSS | 
+Frontend: React, Tailwind CSS 
 
-Backend: Node.js, Express, Django | 
+Backend: Node.js, Express, Django  
 
-Database: PostgreSQL | 
+Database: PostgreSQL  
 
-DevOps: CI/CD, Docker | 
+DevOps: CI/CD, Docker  
 
 Core CS: Data Structures & Algorithms, OS, DBMS, Software Engineering and Software development lifecycle 
 
