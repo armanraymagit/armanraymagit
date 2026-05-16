@@ -1,7 +1,7 @@
 
 ## HI there, I’m Arman 
 
- Aspiring Software Developer | Student 
+ Aspiring AI Software Developer | Student 
 
 ## 🛠️ Tech Stack
 
